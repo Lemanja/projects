@@ -1,4 +1,4 @@
-# "How To" Guides
+# "How-To" Guides
 
 **Page Topics:**  
 
