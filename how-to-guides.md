@@ -106,11 +106,12 @@ _____________________________________________________
 
 ## How to Change a Car's Oil
 
-Although the steps below are relevant to most common car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model. To succesfully perform the following steps you will need:
+Although the steps below are relevant to most car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model. 
 
-- a new oil filter suitable for your specific vechile model
-- clean enigne oil
-- a new oil plug and seal suitable for your vechile model
+To succesfully perform the following procedure you will need:
+    - a new oil filter suitable for your specific vechile model
+    - clean enigne oil
+    - a new oil plug and seal suitable for your vechile model
 
 1. **Check the Specifications** 
 
