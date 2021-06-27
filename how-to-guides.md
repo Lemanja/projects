@@ -183,8 +183,4 @@ To successfully perform the following procedure you will need:
 
 ### Conclusion
 
-If you have questions about your specific oil filter, the amount of oil required according to your vehicle model, or the procedure, you can always call your local dealership for more advice, or visit your local auto parts store.
-
-
-    __________________________________________________________
-
+If you have questions about your specific oil filter, the amount of oil required according to your vehicle model, or the procedure, you can always call your local dealership for more advice, or visit your local auto parts store.  
