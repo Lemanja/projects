@@ -25,31 +25,31 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     In the left side-bar click on  **“Advanced settings”**.
 
-    ![Advanced Firewall Setting](../img/2.png){:class="img-responsive"}
+    ![Advanced Firewall Setting](/projects/images/2.png){:class="img-responsive"}
 
 3. **Select the ‘Inbound Rules’**. 
 
     Click **‘Inbound Rules’** on top, in the left side navigation bar.
 
-    ![Advanced Firewall Setting](../img/3.png){:class="img-responsive"}
+    ![Advanced Firewall Setting](/projects/images/3.png){:class="img-responsive"}
 
 4. **Add a new Rule***
 
     Press on the **New Rule** on top of the right side navigation bar.
 
-    ![Add a new rule](../img/4.png){:class="img-responsive"}
+    ![Add a new rule](/projects/images/4.png){:class="img-responsive"}
 
 5. **Select the Rule Type** 
 
     Click on **Port** and select **Next**.
 
-    ![Select rule type](../img/5.png){:class="img-responsive"}
+    ![Select rule type](/projects/images/5.png){:class="img-responsive"}
 
 6. **Choose the Protocol and specific Port**
 
     Choose the **port** you want to open and select *Next*.
 
-    ![Choose Protocl and Port](../img/6.png){:class="img-responsive"}
+    ![Choose Protocl and Port](/projects/images/6.png){:class="img-responsive"}
 
     > It is important to match the specific **TCP, UDP** and **Port** details, accoding to the instructions of the software or server you want to access.
 
@@ -57,31 +57,31 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     Select **“Allow the connection”** to open the port, then click on **Next**.
 
-    ![Specify the Action](../img/7.png){:class="img-responsive"}
+    ![Specify the Action](/projects/images/7.png){:class="img-responsive"}
 
 8. **Select the profiles to which the rules apply**
     
     The profiles section is very important in order to maintain Network Security while these ports are open. If you want to open the port at the office, then select **Domain**, **Private** is ideal for when your laptop is connected at a more secure environment, like your home. **Public** will apply the rule to public shared networks such as when you are working at a local coffee shop. Select **Next** when you are done.
 
-    ![Select the profile](../img/8.png){:class="img-responsive"}
+    ![Select the profile](/projects/images/8.png){:class="img-responsive"}
 
 9.  **Name and Describe your rule**
 
     Be as descriptive as possible so that you will be able to find it easily. (Perhaps enter the reason in the **description box** for why you have opened this specific port). Click **Finish** to complete the process.
 
-    ![Name and Describe rule](../img/9.png){:class="img-responsive"}
+    ![Name and Describe rule](/projects/images/9.png){:class="img-responsive"}
 
 10. **Confirm that the Rule is Enabled**
 
     When you access the main **Windows Defender Firewall** window, you will see your new rule at the top of the **Inbound Rules** list. The **“Profile”** column will show the type of network it’s allowed on. The **“Action”** column confirms that the **rule** is enabled (or disabled).
 
-    ![Confirm the rule](../img/10.png){:class="img-responsive"}
+    ![Confirm the rule](/projects/images/10.png){:class="img-responsive"}
 
 11. **Double Check that the right Windows 10 port is open**
 
     Use the scroll bar at the bottom of the **Windows Defender Firewall** window to scroll to the right until you see the **Protocol** and **Local Port** columns. They will confirm the specific port you have opened.
 
-    ![Double Check](../img/11.png){:class="img-responsive"}
+    ![Double Check](/projects/images/11.png){:class="img-responsive"}
 
     > Opening the wrong port could increase the security risk for your computor or cause connection issues with other servers, programs or networks.
 
