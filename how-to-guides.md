@@ -7,7 +7,7 @@
 
 ## How to open and close a firewall port on Windows
 
-**Windows firewall at it's core, is designed to protect information on your computor against malicuous attacks on networks such as your Internet.**
+Windows firewall at it's core, is designed to protect information on your computor against malicuous attacks on networks such as your Internet.
 
 You can manually configure the **Firewall's communication rules** to block or allow specific server access to improve security or perform functions such as increasing the compatibility with VPNs and other software. in order to do this you will need to add a specific **Windows Firewall rule** to open or close the relevant port. 
 
