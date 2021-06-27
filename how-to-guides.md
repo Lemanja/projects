@@ -109,9 +109,9 @@ _____________________________________________________
 Although the steps below are relevant to most car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model. 
 
 To succesfully perform the following procedure you will need:
-    - a new oil filter suitable for your specific vechile model
-    - clean enigne oil
-    - a new oil plug and seal suitable for your vechile model
+- a new oil filter suitable for your specific vechile model
+- clean enigne oil
+- a new oil plug and seal suitable for your vechile model
 
 1. **Check the Specifications** 
 
