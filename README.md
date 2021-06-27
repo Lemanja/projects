@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Technical Writing Repository
 
 You can use the [editor on GitHub](https://github.com/Lemanja/projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
