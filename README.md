@@ -1,24 +1,4 @@
-# Welcome to my Technical Writing Repository
-
-**Page Topics:**  
-
-* [Welcome](#welcome)
-* [How To Guides](#how-to-guides)
-* [Comotion Dash Technical Portal](#comotion-dash)
-* [Contact-details](#contact=details)
-
-
-## You can see examples of my technical writing work, projects and interview asessments on this page. 
-
-> :note: **I have created this page using the Jekyll theme with Markdown Syntax and GitHub.r**
-
-
-
-Click this link to access my [How To Guides](how-to-guides.md).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
