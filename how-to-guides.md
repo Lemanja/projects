@@ -7,18 +7,28 @@
 
 ## How to open and close a firewall port on Windows
 
-We show you how to open or close a port in Windows 10 to increase compatibility with VPNs and other software or improve security.
+Windows firewall at it's core, is designed to protect information on your computor against malicuous attacks on networks such as your Internet.
 
-Windows 10 Firewall is an important part of your system’s security, but it can also be a nuisance. At times, for example, it can cause connection issues with certain services. In such cases it may be necessary to add a Windows Firewall rule to open the relevant port.
+You can manually configure the *Firewall's communication rules* to block or allow specific server access to improve security or perform functions such as increasing the compatibility with VPNs and other software. in order to do this you will need to add a specific *Windows Firewall* rule to open or close the relevant port. 
 
-Common Windows 10 ports that users want to open include port 80,8088, 4000, 443, and 88. It pays to be aware of the security risks involved with opening a particular port. Consider that there may be a reason it’s closed, and you may only want to do so temporarily.
+> It is always good to research the safety risks involved before opening or closing a specific port.
 
-After you’ve researched any risks, you can follow our guide below to learn how to open a port in Windows and how to close a port to maintain security.
+### How to open a port in Windows 10
 
-How to Open or Block a Port or Port Range in Windows 10 Firewall
-The Windows Firewall looks at incoming and outgoing connections and analyses them to determine whether they’re trustworthy. At times, however, it may block a useful port unless the user explicitly tells it not to.
+### How to Close a Port in Windows 10 to Maintain Security
 
-To add a port to Windows Firewall (or close a port), you need to add something called a Windows Firewall rule or Firewall exception. This requires use of the dedicated Firewall app.
+1. 
+
+
+
+
+
+
+The main component of a Deployment Model in RapidDeploy is called the Project Orchestration. This is a series of target neutral steps that can run on any target server to deploy and/or configure a set of resources. A model can consist of multiple sub models. You access the Orchestration canvas by clicking on the ‘Projects’ icon in the icons panel at the top of any page or going to ‘Menu’ -> ‘Resources’ -> ‘Projects’ -> [Selected Project]. The orchestration Map canvas tab is the default tab when you edit a project.
+
+ how to close a port to maintain security.
+
+
 
 Open the Windows Firewall app in Windows 10
 
