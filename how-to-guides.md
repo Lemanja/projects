@@ -113,6 +113,8 @@ To succesfully perform the following procedure you will need:
 - clean enigne oil
 - a new oil plug and seal suitable for your vechile model
 
+________________________________
+
 1. **Check the Specifications** 
 
     First of all it is important to check your car's manual for the oil filter specifications to make sure you buy the right oil filter, and check the amount of oil required for your specific engine.
@@ -178,6 +180,7 @@ To succesfully perform the following procedure you will need:
     You can replace the plastic engine cover if there are no leaks.
 
     Lastly, check the oil dipstick again to make sure that the oil level is correct.
+_____________________________________________
 
 ### Conclusion
 
