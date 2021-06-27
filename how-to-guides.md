@@ -90,17 +90,17 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 1. Select the **Windows Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option.
 
-2. Navigate to **Advance Settings** and click on **Inbound Rule**.
+2. Navigate to **Advance Settings** -> **Inbound Rule**.
 
 3. Click on **“New Rule”** -> **Port** -> make sure that **TCP** is selected.
 
 4. Specifiy the port details.
 
-5. Select **“Allow the Connection”** and **Next**.
+5. Select **“Allow the Connection”** -> **Next**.
 
 6. Make sure that **Domain**, **Private** and **Public** are ticked.
 
-7. Add your preferred **Name and Description** then click on **Finish**.
+7. Add your preferred **Name and Description** -> **Click Finish**.
 
 _____________________________________________________
 
