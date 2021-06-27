@@ -16,41 +16,52 @@ You can manually configure the **Firewall's communication rules** to block or al
 ### How to open a port in Windows 10
 
 1. **Open the Windows Firewall app in Windows 10**
-Press the **Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option. 
+
+    Press the **Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option. 
 
 2. **Open the advanced Firewall settings**
-In the left side-bar click on  **“Advanced settings”**.
+
+    In the left side-bar click on  **“Advanced settings”**.
 
 3. **Select the ‘Inbound Rules’**. 
-Click **‘Inbound Rules’** on top, in the left side navigation bar.
+
+    Click **‘Inbound Rules’** on top, in the left side navigation bar.
 
 4. **Add a new Rule***
-Press on the **New Rule** on top of the right side navigation bar.
+
+    Press on the **New Rule** on top of the right side navigation bar.
 
 5. **Select the Rule Type** 
-Click on **Port** and select **Next**.
+
+    Click on **Port** and select **Next**.
 
 6. **Choose the Protocol and specific Port**
-Choose the **port** you want to open and select *Next*.
 
-> It is important to match the specific **TCP, UDP** and **Port** details, accoding to the instructions of the software or server you want to access.
+    Choose the **port** you want to open and select *Next*.
+
+    > It is important to match the specific **TCP, UDP** and **Port** details, accoding to the instructions of the software or server you want to access.
 
 7. **Specify the Action**
-Select **“Allow the connection”** to open the port, then click on **Next**.
+
+    Select **“Allow the connection”** to open the port, then click on **Next**.
 
 8. **Select the profiles to which the ruls apply**
-The profiles section is very important in order to maintain Network Security while these ports are open. If you want to open the port at the office, then select **Domain**, **Private** is ideal for when your laptop is connected at a more secure environment, like your home. **Public** will apply the rule to public shared networks such as when you are working at a local coffee shop. Select **Next** when you are done.
+    
+    The profiles section is very important in order to maintain Network Security while these ports are open. If you want to open the port at the office, then select **Domain**, **Private** is ideal for when your laptop is connected at a more secure environment, like your home. **Public** will apply the rule to public shared networks such as when you are working at a local coffee shop. Select **Next** when you are done.
 
 9.  **Name and Describe your rule**
-Be as descriptive as possible so that you will be able to find it easily. (Perhaps enter the reason in the **description box** for why you have opened this specific port). Click **Finish** to complete the process.
+
+    Be as descriptive as possible so that you will be able to find it easily. (Perhaps enter the reason in the **description box** for why you have opened this specific port). Click **Finish** to complete the process.
 
 10. **Confirm that the Rule is Enabled**
-When you access the main **Windows Defender Firewall** window, you will see your new rule at the top of the **Inbound Rules** list. The **“Profile”** column will show the type of network it’s allowed on. The **“Action”** column confirms that the **rule** is enabled (or disabled).
+
+    When you access the main **Windows Defender Firewall** window, you will see your new rule at the top of the **Inbound Rules** list. The **“Profile”** column will show the type of network it’s allowed on. The **“Action”** column confirms that the **rule** is enabled (or disabled).
 
 11. **Double Check that the right Windows 10 port is open**
-Use the scroll bar at the bottom of the **Windows Defender Firewall** window to scroll to the right until you see the **Protocol** and **Local Port** columns. They will confirm the specific port you have opened.
 
-> Opening the wrong port could increase the security risk for your computor or cause connection issues with other servers, programs or networks.
+    Use the scroll bar at the bottom of the **Windows Defender Firewall** window to scroll to the right until you see the **Protocol** and **Local Port** columns. They will confirm the specific port you have opened.
+
+    > Opening the wrong port could increase the security risk for your computor or cause connection issues with other servers, programs or networks.
 
 
 ### How to Close a Port in Windows 10 to Maintain Security
