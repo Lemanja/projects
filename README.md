@@ -4,7 +4,7 @@ You can see examples of my technical writing work, projects and interview asessm
 
 I have created this page using the Jekyll theme with Markdown Syntax and GitHub.
 
-You can use the [editor on GitHub](https://github.com/Lemanja/projects/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Click this link to access my [How To Guides](https://github.com/Lemanja/projects/edit/main/projects/how-to-guides.md).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
