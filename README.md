@@ -1,6 +1,6 @@
-## Welcome to my Technical Writing Repository
+# Welcome to my Technical Writing Repository
 
-You can see examples of my technical writing work, projects and interview asessments on this page. 
+## You can see examples of my technical writing work, projects and interview asessments on this page. 
 
 > :note: **I have created this page using the Jekyll theme with Markdown Syntax and GitHub.r**
 
