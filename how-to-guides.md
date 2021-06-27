@@ -104,11 +104,15 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 _____________________________________________________
 
-## How to Change a Cars Oil
+## How to Change a Car's Oil
 
-Although the steps below are relevant to most common car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model.
+Although the steps below are relevant to most common car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model. To succesfully perform the following steps you will need:
 
-1. **Check the Specifcations**
+- a new oil filter suitable for your specific vechile model
+- clean enigne oil
+- a new oil plug and seal suitable for your vechile model
+
+### Check the Specifications 
 
     First of all it is important to check your car's manual for the **oil filter specifications** to make sure you buy the right oil filter, and check the **amount of oil required** for your specific engine.
 
@@ -131,23 +135,23 @@ Although the steps below are relevant to most common car models, it is advised t
 
 5. **Drain the Oil**
 
-    * Search for the **drain plug** on the oil pan underneath the engine. 
+    Search for the **drain plug** on the oil pan underneath the engine. 
     > Make sure that you are unscrewing the correct screw, double check this in your car's manual. Unscrewing the wrong screw and draining the oil from your gearbox can be rather difficult to replace.
 
-    * Once allocated, remove the **drain plug** and allow the oil to drain out. This can take some time.
+    Once allocated, remove the **drain plug** and allow the oil to drain out. This can take some time.
 
-    * Replace the **oil plug** and the **seal** to prevent an oil leak.
+    Replace the **oil plug** and the **seal** to prevent an oil leak.
 
-    * Now make sure to use a **torque wrench** to tighten the oil plug. You can consult your car's manual for the correct **torque specifications**.
+    Now make sure to use a **torque wrench** to tighten the oil plug. You can consult your car's manual for the correct **torque specifications**.
 
 6. **Replace the Engine Oil**
 
-    * Remove the **dipstick** to remove any air from the engine
+    Remove the **dipstick** to remove any air from the engine
 
-    * Finally you can fill up the engine with fresh, clean **engine oil**, be sure to fill the required amount through the **oil cap** at the top of the engine. 
+    Finally you can fill up the engine with fresh, clean **engine oil**, be sure to fill the required amount through the **oil cap** at the top of the engine. 
     > Do not spill any oil over the other engine parts.
 
-    * Once you have filled your engine with the required amount of oil, check the **oil dipstick** - it shoul be slightly above the **MAX** symbol.
+    Once you have filled your engine with the required amount of oil, check the **oil dipstick** - it shoul be slightly above the **MAX** symbol.
 
 7. **Time to Start the Engine**
 
@@ -157,8 +161,8 @@ Although the steps below are relevant to most common car models, it is advised t
 
 8. **Check the Dipstick**
 
-    * After switching your engine off, **wait 5 minutes** so that the oil can flow into the oil pan.
-    * Then check the **dipstick**, the **oil level** should now be between **Min** and **Max**.
+    After switching your engine off, **wait 5 minutes** so that the oil can flow into the oil pan.
+    Then check the **dipstick**, the **oil level** should now be between **Min** and **Max**.
 
     > Sometimes the oil level can be on the *Max* sign, double check your car's manual to see what it should be on.
 
