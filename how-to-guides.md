@@ -2,8 +2,8 @@
 
 **Page Topics:**  
 
-* [How to open and close a firewall port on Windows](#how-to-open-and-close-a-firewall-port-on-windows)
-* [How to change a cars oil](#how-to-change-a-cars-oil)
+* [How to Open and Close a Firewall Port on Windows](#how-to-open-and-close-a-firewall-port-on-windows)
+* [How to Change a Car's Oil](#how-to-change-a-cars-oil)
 
 ## How to Open and Close a Firewall Port on Windows 10
 
