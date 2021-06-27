@@ -17,7 +17,7 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 1. **Open the Windows Firewall app in Windows 10**
 
-    Press the **Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option.
+    Select the **Windows Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option.
 
     ![Open Windows Firewall](/projects/images/first_step.png){: .left_small_picture}
 
@@ -88,22 +88,19 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 ### How to Close a Port in Windows 10 to Maintain Security
 
-1. To close a port from the **control panel** choose 
+1. Select the **Windows Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option.
 
+2. Navigate to **Advance Settings** and click on **Inbound Rule**
 
-1. From the control panel choose **Windows Defender Firewall**
+3. Click on **“New Rule”** -> **Port** -> make sure that **TCP** is selected.
 
-2. Select **advance setting** and click on **Inbound Rule**
+4. Specifiy the port details.
 
-3. Select “New Rule” -> Port -> make sure that TCP is selected.
+5. Select **“Allow the Connection”** and **Next**.
 
-4. Fill in the specific port details.
+6. Make sure that **Domain**, **Private** and **Public** are ticked.
 
-5. Then select **“Allow the connection”** and click -> **Next**.
-
-6. Mae sure that the **Domain**; **Private** and **Public** are selected.
-
-7. Add your **Name and Description** and click on **Finish**
+7. Add your preferred **Name and Description** then click on **Finish**
 
 
 
