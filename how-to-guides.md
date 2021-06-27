@@ -19,7 +19,7 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     Press the **Start** button and type **“Windows Defender Firewall”**. Choose the top **Control Panel** option.
 
-    ![Open Windows Firewall](projects/images/first_step.png){:class="img-responsive"}
+    ![Open Windows Firewall](/projects/images/first_step.png){:class="img-responsive"}
 
 2. **Open the advanced Firewall settings**
 
