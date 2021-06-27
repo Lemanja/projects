@@ -6,6 +6,6 @@ I have created this technical writing repository to showcase my latest projects 
 
 ________________________________________________
 
-- [How To Guides](projects/how-to-guides.md)  
+- [How To Guides](how-to-guides.md)  
 - [Latest Client Project](https://docs.comotion.us/Comotion%20Dash/Overview.html)
 - [Get in Touch](https://lemanjamears.com/contact-connect-with-me)
