@@ -1,8 +1,14 @@
 ## Welcome to my Technical Writing Repository
 
 You can see examples of my technical writing work, projects and interview asessments on this page. 
+---
+**NOTE**
 
 I have created this page using the Jekyll theme with Markdown Syntax and GitHub.
+
+---
+
+
 
 Click this link to access my [How To Guides](https://github.com/Lemanja/projects/edit/main/projects/how-to-guides.md).
 
