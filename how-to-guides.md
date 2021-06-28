@@ -110,42 +110,58 @@ Although the steps below are relevant to most car models, it is advised to check
 
 To successfully perform the following procedure you will need:
 - a new oil filter suitable for your specific vehicle model
-- new, clean engine oil
+- new, clean engine oil (check your oil cup's cap in the front part of the engine to see what kind of oil your vehcile requires)
 - a new oil plug and seal suitable for your vehicle model
+- some vehicle models might also need an oil filter socket, strap or cup wringe
+- wrenge or socket and rachet
+- drain pan
+- funnel
+- gloves
+- some old cloths
+- jack and a jack stand
+
 
 ### Steps to Follow
 
 1. **Check the Specifications** 
 
-    First of all, it is important to check your car's manual for the oil filter specifications to make sure you buy the right oil filter and the correct amount of oil for your specific engine.
+    First of all, it is important to check your car's manual for the oil filter specifications to make sure you buy the right oil filter and the correct amount of oil for your specific engine. 
 
 2. **Safely Jack up your Car**
 
     Make sure to put your safety first by jacking up the car and using a jack stand (not only your jack) to secure your vehicle in the air.  Your car's manual should specify where to place the jack stand on the floor jack in order to lift your car safely.
 
+    Use a level, clean surface to park your car and jack it up.
+
 3. **Remove the Plastic Cover**
 
+    Open your car's bonnet to inspect which side the vehicle's engine is situated(front while drives are usually on the passanger side and the gearbox on the left side). You will be working underneath the car, directly on the engines side. 
+    
     If your car has a plastic cover underneath to cover the engine, you will need to remove this first. (Some cars have a separate hatch on the plastic cover to easily reach the oil filter and drain plug, in this case, you don't need to remove the plastic engine cover.)
 
-4. **Replace the Oil Filter**
+4. **Drain the Oil**
 
-    It is important to replace the oil filter first to also drain the dirty oil from the filter cup on the top of the engine.
-
-    The most common location for an insert filter is at the top of the engine. Replace it together with all **0-rings and double-check that the oil filter cap is tightened to the specified torque**.
-
-    A plate filter is usually found underneath the engine. 
-    > You can replace the oil with a *plate filter* before or after the oil filter change.
-
-5. **Drain the Oil**
-
-    Search for the **drain plug** on the oil pan underneath the engine. 
+    Search for the **drain plug** on the oil pan underneath the car on the engine's side and turn it counter clockwise to loosen the plug. 
     > Make sure that you are unscrewing the correct screw, double-check this in your car's manual. Unscrewing the wrong screw and draining the oil from your gearbox can be rather difficult to replace.
 
     Once allocated, remove it and allow the oil to drain out. This can take some time.
 
-    Replace the **oil plug** and the **seal** to prevent an oil leak.
+    Inspect the **oil plug** and the **seal** properly to ensure that it is still in a good enough condition to prevent an oil leak. If you see any damage or cracks on the seal, it is best to replace it.
 
-    Now make sure to use a torque wrench to tighten the oil plug. You can consult your car's manual for the correct torque specifications.
+    Now make sure to use a torque wrench to tighten the oil plug again by turning it clock-wise. You can consult your car's manual for the correct torque specifications.
+
+5. **Replace the Oil Filter**
+
+    Locate the oil filter in your vechilce model, it can be underneath, in the front part of the engine but can also be situated in the rear of the engine or on the front side near the wheel walve. The most common location for an insert filter is at the top of the engine. 
+    
+    You get two types of filters:
+    - Canistar or twist on filter **-> make sure you lubracte the seal** after installing this type of filter make sure to give it an extra quearter turn to ensure that it is properly in place.
+    - Cartridge filter
+    
+    Remove the oil filter with the oil filter socket and replace it together with all **0-rings and double-check that the oil filter cap is tightened again to the specified torque**.
+
+    A plate filter is usually found underneath the engine. 
+    > You can replace the oil with a *plate filter* before or after the oil filter change.
 
 6. **Replace the Engine Oil**
 
@@ -154,7 +170,7 @@ To successfully perform the following procedure you will need:
     Finally, you can fill up the engine with fresh, clean **engine oil**, be sure to fill the required amount through the **oil cap** at the top of the engine.
     > Do not spill any oil over the other engine parts.
 
-    Once you have filled your engine with the required amount of oil, check the oil dipstick - it should be slightly above the *MAX* symbol.
+    Once you have filled your engine with the required amount of oil, replace the oil cap's lid and check the oil dipstick - it should be slightly above the *MAX* symbol.
 
 7. **Time to Start the Engine**
 
