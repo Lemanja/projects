@@ -7,9 +7,9 @@
 
 ## How to Open and Close a Firewall Port on Windows 10
 
-Windows firewall at its core is designed to protect information on your computer against malicious attacks on networks such as your Internet.
+Windows Firewall at its core is designed to protect information on your computer against malicious attacks on networks such as your Internet.
 
-You can manually configure the **Firewall's communication rules** to block or allow specific server access to improve security or perform functions such as increasing the compatibility with VPNs and other software. in order to do this, you will need to add a specific **Windows Firewall rule** to open or close the relevant port. 
+You can manually configure the **Firewall's communication rules** to block or allow specific server access to improve security or perform functions such as increasing the compatibility with VPNs and other software. In order to do this, you will need to add a specific **Windows Firewall Rule** to open or close the relevant port. 
 
 > It is always good to research the safety risks involved before opening or closing a specific port.
 
@@ -21,7 +21,7 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     ![Open Windows Firewall](/projects/images/first_step.png){: .left_small_picture}
 
-2. **Open the advanced Firewall settings**
+2. **Open the Advanced Firewall settings**
 
     In the left sidebar click on  **“Advanced settings”**.
 
@@ -33,9 +33,9 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     ![Advanced Firewall Setting](/projects/images/3.png){:class="img-responsive"}
 
-4. **Add a new Rule***
+4. **Add a new Rule**
 
-    Press on the **New Rule** on top of the right-side navigation bar.
+    Press on the **New Rule** icon on top of the right-side navigation bar.
 
     ![Add a new rule](/projects/images/4.png){:class="img-responsive"}
 
@@ -47,7 +47,7 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 6. **Choose the Protocol and specific Port**
 
-    Choose the **port** you want to open and select *Next*.
+    Choose the **port** you want to open and select **Next**.
 
     ![Choose Protocl and Port](/projects/images/6.png){:class="img-responsive"}
 
@@ -59,9 +59,9 @@ You can manually configure the **Firewall's communication rules** to block or al
 
     ![Specify the Action](/projects/images/7.png){:class="img-responsive"}
 
-8. **Select the profiles to which the rules apply**
+8. **Select the Profiles to which the Rules apply**
     
-    The profiles section is very important in order to maintain Network Security while these ports are open. If you want to open the port at the office, then select **Domain**, **Private** is ideal for when your laptop is connected to a network at a secure environment, like your home. **Public** will apply the rule to public shared networks such as when you are working at a local coffee shop. Select **Next** when you are done.
+    The profiles section is very important in order to maintain Network Security while these ports are open. If you want to open the port at the office, then select **Domain**. **Private** is ideal for when your laptop is connected to a network at a secure environment, like your home. **Public** will apply the rule to public shared networks such as when you are working at a local coffee shop. Select **Next** when you are done.
 
     ![Select the profile](/projects/images/8.png){:class="img-responsive"}
 
@@ -73,11 +73,11 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 10. **Confirm that the Rule is Enabled**
 
-    When you access the main **Windows Defender Firewall** window, you will see your new rule at the top of the **Inbound Rules** list. The **“Profile”** column will show the type of network it’s allowed on. The **“Action”** column confirms that the **rule** is enabled (or disabled).
+    When you access the main **Windows Defender Firewall** window, you will see your new rule at the top of the **Inbound Rules** list. The **“Profile”** column will show the type of network it’s allowed on. The **“Action”** column confirms that the **Rule** is enabled (or disabled).
 
     ![Confirm the rule](/projects/images/10.png){:class="img-responsive"}
 
-11. **Double Check that the right Windows 10 port is open**
+11. **Double Check that the right Windows 10 Port is Open**
 
     Use the scroll bar at the bottom of the **Windows Defender Firewall** window to scroll to the right until you see the **Protocol** and **Local Port** columns. They will confirm the specific port you have opened.
 
@@ -96,7 +96,7 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 4. Specify the port details -> **Next**
 
-5. Select **“Allow the Connection”** -> **Next**.
+5. Select **“Block the Connection”** -> **Next**.
 
 6. Make sure that **Domain**, **Private** and **Public** are ticked -> **Next**
 
@@ -106,18 +106,18 @@ _____________________________________________________
 
 ## How to Change a Car's Oil
 
-Although the steps below are relevant to most car models, it is advised to check your car manual for specific procedure guidance according to your vehicle model. 
+Although the steps below are relevant to most car models, it is advised to check your car's manual for specific procedure guidance according to your vehicle model. 
 
 To successfully perform the following procedure you will need:
 - a new oil filter suitable for your specific vehicle model
-- new, clean engine oil (check your oil cup's cap in the front part of the engine to see what kind of oil your vehcile requires)
+- new, clean engine oil (check your oil cup's cap in the front part of the engine to see what kind of oil your vehicle requires)
 - a new oil plug and seal suitable for your vehicle model
-- some vehicle models might also need an oil filter socket, strap or cup wringe
+- some vehicle models might also need an oil filter socket, strap, or cup
 - wrenge or socket and rachet
 - drain pan
 - funnel
 - gloves
-- some old cloths
+- some old rags
 - jack and a jack stand
 
 
@@ -129,39 +129,36 @@ To successfully perform the following procedure you will need:
 
 2. **Safely Jack up your Car**
 
-    Make sure to put your safety first by jacking up the car and using a jack stand (not only your jack) to secure your vehicle in the air.  Your car's manual should specify where to place the jack stand on the floor jack in order to lift your car safely.
+    Make sure to put your safety first by jacking up the car and using a jack stand (not only your jack) to secure your vehicle in the air.  Your car's manual should specify where to place the jack stand or the floor jack in order to lift your car safely.
 
-    Use a level, clean surface to park your car and jack it up.
+    Use a hard, leveled, clean surface to park your car and jack it up.
 
 3. **Remove the Plastic Cover**
 
-    Open your car's bonnet to inspect which side the vehicle's engine is situated(front while drives are usually on the passanger side and the gearbox on the left side). You will be working underneath the car, directly on the engines side. 
+    Open your car's bonnet to inspect which side the vehicle's engine is situated on (front wheel drives are usually on the passenger side and the gearbox on the opposite side). You will be working underneath the car, directly on the side of the engine. 
     
     If your car has a plastic cover underneath to cover the engine, you will need to remove this first. (Some cars have a separate hatch on the plastic cover to easily reach the oil filter and drain plug, in this case, you don't need to remove the plastic engine cover.)
 
 4. **Drain the Oil**
 
-    Search for the **drain plug** on the oil pan underneath the car on the engine's side and turn it counter clockwise to loosen the plug. 
+    Search for the **drain plug** on the oil pan underneath the car on the engine's side and turn it counterclockwise to loosen the plug. 
     > Make sure that you are unscrewing the correct screw, double-check this in your car's manual. Unscrewing the wrong screw and draining the oil from your gearbox can be rather difficult to replace.
 
     Once allocated, remove it and allow the oil to drain out. This can take some time.
 
     Inspect the **oil plug** and the **seal** properly to ensure that it is still in a good enough condition to prevent an oil leak. If you see any damage or cracks on the seal, it is best to replace it.
 
-    Now make sure to use a torque wrench to tighten the oil plug again by turning it clock-wise. You can consult your car's manual for the correct torque specifications.
+    Now make sure to use a torque wrench to tighten the oil plug again by turning it clockwise. You can consult your car's manual for the correct torque specifications.
 
 5. **Replace the Oil Filter**
 
-    Locate the oil filter in your vechilce model, it can be underneath, in the front part of the engine but can also be situated in the rear of the engine or on the front side near the wheel walve. The most common location for an insert filter is at the top of the engine. 
+    Locate the oil filter in your vehicle model, it can be underneath, in the front part of the engine but can also be situated in the rear of the engine or on the front side near the wheel valve. The most common location for an insert filter is at the top of the engine. 
     
     You get two types of filters:
-    - Canistar or twist on filter **-> make sure you lubracte the seal** after installing this type of filter make sure to give it an extra quearter turn to ensure that it is properly in place.
-    - Cartridge filter
+    - Canister or "Twist On" filter **-> lubricate the seal of the new one before installing it**. After installing this type of filter, give it an extra quarter turn to ensure that it is properly in place.
+    - Cartridge filter -> easy to replace, remove the old one and insert the new one.
     
     Remove the oil filter with the oil filter socket and replace it together with all **0-rings and double-check that the oil filter cap is tightened again to the specified torque**.
-
-    A plate filter is usually found underneath the engine. 
-    > You can replace the oil with a *plate filter* before or after the oil filter change.
 
 6. **Replace the Engine Oil**
 
