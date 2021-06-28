@@ -94,11 +94,11 @@ You can manually configure the **Firewall's communication rules** to block or al
 
 3. Click on **“New Rule”** -> **Port** -> make sure that **TCP** is selected -> **Next**.
 
-4. Specify the port details -> **Next**
+4. Specify the port details -> **Next**.
 
 5. Select **“Block the Connection”** -> **Next**.
 
-6. Make sure that **Domain**, **Private** and **Public** are ticked -> **Next**
+6. Make sure that **Domain**, **Private** and **Public** are ticked -> **Next**.
 
 7. Add your preferred **Name and Description** -> **Finish**.
 
