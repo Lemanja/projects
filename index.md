@@ -2,7 +2,7 @@
 
 I have created this technical writing repository to showcase my latest projects and technical writing examples.
 
-> Created using Jekyll, Markdown Syntax, Visual Studio Code, and GitHub with Github pages.
+> Created using Jekyll, Markdown Syntax, Visual Studio Code, and GitHub with GitHub pages.
 
 ________________________________________________
 
