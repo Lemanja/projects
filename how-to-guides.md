@@ -155,8 +155,8 @@ To successfully perform the following procedure you will need:
     Locate the oil filter in your vehicle model, it can be underneath, in the front part of the engine but can also be situated in the rear of the engine or on the front side near the wheel valve. The most common location for an insert filter is at the top of the engine. 
     
     You get two types of filters:
-    - Canister or "Twist On" filter **-> lubricate the seal of the new one before installing it**. After installing this type of filter, give it an extra quarter turn to ensure that it is properly in place.
-    - Cartridge filter -> easy to replace, remove the old one and insert the new one.
+    - **Canister or "Twist On" filter** -> *lubricate the seal of the new one before installing it*. After installing this type of filter, give it an extra quarter turn to ensure that it is properly in place.
+    - **Cartridge filter** -> easy to replace, remove the old one and insert the new one.
     
     Remove the oil filter with the oil filter socket and replace it together with all **0-rings and double-check that the oil filter cap is tightened again to the specified torque**.
 
