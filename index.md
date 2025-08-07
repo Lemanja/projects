@@ -8,7 +8,3 @@ ________________________________________________
 
 - [How-To Guides](how-to-guides.md)  
 - [Latest Client Project with MK Docs, Markdown, Visual Code Studio and Git](https://docs.comotion.us/Comotion%20Dash/Overview.html)
-- [Locum Lifestyle Articles](https://issuu.com/locumlifestylemag)
-- [Get in Touch](https://lemanjamears.com/contact-connect-with-me)
-
-
